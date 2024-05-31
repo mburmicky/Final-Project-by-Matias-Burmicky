@@ -29,8 +29,9 @@
 ***`Data sets collected through an API or web scraping`***
 
 **Demographics data**
-####- California Median Household Income and population per Zip Code
-####- Median calculation from the following annual periods: 2010-2014
-####- Data collected by ACS (American Community Survey) 
-####- Source: United States Census Bureau through `USA.com` [access here](http://www.usa.com/rank/california-state--median-household-income--zip-code-rank.htm?hl=&hlst=&wist=&yr=9000&dis=&sb=DESC&plow=&phigh=&ps=)
+
+#### - California Median Household Income and population per Zip Code
+#### - Median calculation from the following annual periods: 2010-2014
+#### - Data collected by ACS (American Community Survey) 
+#### - Source: United States Census Bureau through `USA.com` [access here](http://www.usa.com/rank/california-state--median-household-income--zip-code-rank.htm?hl=&hlst=&wist=&yr=9000&dis=&sb=DESC&plow=&phigh=&ps=)
 
