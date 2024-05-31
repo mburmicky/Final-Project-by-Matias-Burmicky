@@ -45,5 +45,6 @@
 #### - .csv file with data scraped (clean)
 #### - .csv file with all data sets together and cleaned
 #### - 5 .xslx files as data sources gathered from Kaggle
+#### - juypyter notebook with code
 
 
