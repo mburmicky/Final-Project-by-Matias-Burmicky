@@ -39,3 +39,11 @@
 
 #### - [Access here](https://public.tableau.com/app/profile/matias.burmicky/viz/FinalProject-Matias-v2/Analysis?publish=yes)
 
+### `Other files in the Github`
+
+#### - Presentation in .pdf format
+#### - .csv file with data scraped (clean)
+#### - .csv file with all data sets together and cleaned
+#### - 5 .xslx files as data sources gathered from Kaggle
+
+
